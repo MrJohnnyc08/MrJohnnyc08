@@ -1,4 +1,33 @@
-## Hi there 👋
+
+MrJohnnyc08 - John - Jogn
+(He/Him)
+
+---
+
+Developer, Artist, Animator, and Composer that specializes in Roblox. 
+
+Started playing Roblox in 2015, and started developing in 2017.
+
+I play too much Roblox.
+
+---
+
+
+# Current Projects
+Yet Another Disaster Game (YADG)
+
+https://www.roblox.com/join/ahde9
+
+---
+
+# Completed Projects
+
+## Roblox Games:
+Vector
+https://www.roblox.com/join/iry1o
+
+Zombie Desert Defense Tycoon *Remake*
+https://www.roblox.com/join/cav8q
 
 <!--
 **MrJohnnyc08/MrJohnnyc08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
